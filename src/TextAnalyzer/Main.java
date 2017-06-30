@@ -1,4 +1,6 @@
-public class Quiz {
+package TextAnalyzer;
+
+public class Main {
 
     public static Label checkLabels(TextAnalyzer[] analyzers, String text) {
         Label res;

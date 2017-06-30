@@ -1,3 +1,5 @@
+package TextAnalyzer;
+
 public class SpamAnalyzer extends KeywordAnalyzer {
     private String[] keywords;
 

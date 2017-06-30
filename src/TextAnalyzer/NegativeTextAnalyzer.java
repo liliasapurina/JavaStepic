@@ -1,3 +1,5 @@
+package TextAnalyzer;
+
 public class NegativeTextAnalyzer extends KeywordAnalyzer {
 
     protected String[] getKeywords(){
